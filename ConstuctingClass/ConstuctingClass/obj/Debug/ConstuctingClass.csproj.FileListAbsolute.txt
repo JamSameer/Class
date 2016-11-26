@@ -1,0 +1,6 @@
+D:\Training\ConsoleApps\ConstuctingClass\ConstuctingClass\bin\Debug\ConstuctingClass.exe.config
+D:\Training\ConsoleApps\ConstuctingClass\ConstuctingClass\bin\Debug\ConstuctingClass.exe
+D:\Training\ConsoleApps\ConstuctingClass\ConstuctingClass\bin\Debug\ConstuctingClass.pdb
+D:\Training\ConsoleApps\ConstuctingClass\ConstuctingClass\obj\Debug\ConstuctingClass.csprojResolveAssemblyReference.cache
+D:\Training\ConsoleApps\ConstuctingClass\ConstuctingClass\obj\Debug\ConstuctingClass.exe
+D:\Training\ConsoleApps\ConstuctingClass\ConstuctingClass\obj\Debug\ConstuctingClass.pdb
